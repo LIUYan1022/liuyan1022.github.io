@@ -6,15 +6,15 @@ sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
     # Profile information
-    name: Yuxuan XIE
-    tagline: I just enjoy learning something new.
+    name: Yan LIU
+    tagline: J'aime manger.
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
-    email: yuxuan.xie@hotmail.com
-    phone:
-    website: 35.226.21.230
+    email: yan.liu@insa-lyon.fr
+    phone: +33 6 98 68 36 15
+    website:
     linkedin:
-    github: yuxuanxie
+    github: 
     gitlab:
     bitbucket:
     twitter: 
@@ -23,9 +23,11 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Mandarin
+      - idiom: Français
 
-      - idiom: English
+      - idiom: Anglais
+
+      - idiom: Chinois
 
     # interests:
     #   - item: |
